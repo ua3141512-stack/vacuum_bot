@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "SuperVacuum 3000",
+        "category": "Suyuqlik so'ruvchi pelesoslar",
+        "description": "Kuchli va jim ishlaydigan suyuqlik so'ruvchi changyutgich.",
+        "price": 1500000,
+        "image_url": "https://via.placeholder.com/400x300.png?text=SuperVacuum+3000"
+    },
+    {
+        "id": 2,
+        "name": "VerticalPro X",
+        "category": "Vertikal pelesoslar",
+        "description": "Yengil va ixcham vertikal changyutgich.",
+        "price": 2000000,
+        "image_url": "https://via.placeholder.com/400x300.png?text=VerticalPro+X"
+    },
+    {
+        "id": 3,
+        "name": "AutoClean Mini",
+        "category": "Avtomobil uchun",
+        "description": "Avtomobil uchun maxsus mini changyutgich.",
+        "price": 500000,
+        "image_url": "https://via.placeholder.com/400x300.png?text=AutoClean+Mini"
+    }
+]
